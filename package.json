@@ -1,0 +1,11 @@
+{
+  "name": "chatroom",
+  "version": "1.0.0",
+  "description": "A chatroom program.",
+  "dependencies": {
+    "express": "4.x"
+  },
+  "license" : "SEE LICENSE IN licence.txt",
+  "main": "app.js",
+  "url": "git://github.com/raymond1/repository.git"
+}

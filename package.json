@@ -3,9 +3,17 @@
   "version": "1.0.0",
   "description": "A chatroom program.",
   "dependencies": {
-    "express": "4.x"
+    "bson": "^0.4.19",
+    "connect-mongo": "^0.8.2",
+    "connect-mongostore": "^0.1.4",
+    "express": "4.x",
+    "express-session": "^1.12.1",
+    "kerberos": "0.0.17"
   },
-  "license" : "SEE LICENSE IN licence.txt",
+  "license": "SEE LICENSE IN licence.txt",
   "main": "app.js",
-  "url": "git://github.com/raymond1/repository.git"
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/raymond1/repository.git"
+  }
 }
